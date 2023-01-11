@@ -265,11 +265,13 @@ justify-content: center;
   height: 100%;
   align-items: center;
   justify-items: center;
+  text-align: center;
 }
 
 .diagramBox {
   display: grid;
   justify-items: center;
+  text-align: center;
 }
 
 .diagramImg {
